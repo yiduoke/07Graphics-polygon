@@ -1,0 +1,37 @@
+torus
+0 0 0 20 120
+ident
+rotate
+x 23
+rotate
+y 18
+rotate
+z 12
+move
+100 90 0
+apply
+torus
+0 0 0 20 120
+ident
+rotate
+x -8
+rotate
+y -5
+rotate
+z -2
+move
+-20 60 0
+apply
+torus
+0 0 0 20 120
+box
+10 200 0 20 220 30
+box
+-200 -20 0 460 30 30
+ident
+move
+220 150 0
+apply
+display
+save
+pic.png
